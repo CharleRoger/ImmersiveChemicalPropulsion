@@ -1,5 +1,6 @@
 # 1.7.0
 - Updated to Chemical Core 1.5.1
+- Added PartPatchUtils as a hard dependency
 - Added Water option to cryogenic tanks in Chemical Propulsion Thermal
 - Added automatic patch support for SRBs with built-in monopropellant tank, but no RCS, and fixed some bugs in the patch targeting for the SRB + RCS case
 - Changed Kerosene-HTP bipropellant combination back to hypergolic ignition, emulating a catalytic decomposition system

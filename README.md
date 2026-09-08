@@ -194,6 +194,7 @@ Patches are organised into six stages as shown below. If you're looking to add a
 - [Community Resource Pack (112.0.1)](https://github.com/UmbraSpaceIndustries/CommunityResourcePack)
 - [Chemical Core (1.5.1)](https://github.com/CharleRoger/ChemicalCore)
 - [Ignition (1.2.3.1)](https://github.com/CharleRoger/Ignition)
+- [PartPatchUtils (1.0.0)](https://github.com/CharleRoger/PartPatchUtils)
 - [Space Dust Next (3.3.0)](https://github.com/NerdyBoy709/SpaceDustNext) (only if using [Space Dust](https://github.com/post-kerbin-mining-corporation/SpaceDust))
 
 ## Compatibility

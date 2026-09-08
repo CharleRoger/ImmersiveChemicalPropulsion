@@ -13,6 +13,7 @@ depends:
   - name: CommunityResourcePack
   - name: ChemicalCore
   - name: Ignition
+  - name: PartPatchUtils
 recommends:
   - name: ChemicalTechTree
   - name: AlcoholicAeronautics
